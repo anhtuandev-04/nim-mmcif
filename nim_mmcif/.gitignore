@@ -1,0 +1,8 @@
+# Compiled files
+*.so
+*.pyd
+*.dll
+*.dylib
+__pycache__/
+*.py[cod]
+*$py.class
