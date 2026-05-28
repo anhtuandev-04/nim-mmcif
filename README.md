@@ -10,7 +10,7 @@ Verdict: I have upgraded to the Max 200$ plan. Opus is the only viable model, at
 
 - 🚀 High-performance parsing of mmCIF files using Nim
 - 🌍 Cross-platform support (Linux, macOS, Windows)
-- 📦 Easy installation via pip 
+- 📦 Easy installation via pip
 
 ## Installation
 
